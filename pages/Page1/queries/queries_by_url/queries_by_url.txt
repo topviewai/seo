@@ -1,0 +1,5 @@
+{
+	url_pattern: {{InputURL.text}},
+	days: {{SelectURLDays.selectedOptionValue ? parseInt(SelectURLDays.selectedOptionValue) : null}},
+	exact_match: {{CheckboxURLFullMatch.isChecked}}
+}

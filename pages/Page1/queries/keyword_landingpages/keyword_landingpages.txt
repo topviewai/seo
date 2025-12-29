@@ -1,0 +1,4 @@
+{
+	search_term: {{CheckboxFullMatch.isChecked ? InputSearchTerm.text : '%' + InputSearchTerm.text + '%'}},
+	days: {{Select1.selectedOptionValue ? parseInt(Select1.selectedOptionValue): null}}
+}

@@ -1,0 +1,58 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 6,
+  "boxShadow": "none",
+  "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "buttonVariant": "PRIMARY",
+  "disabledWhenInvalid": false,
+  "dynamicBindingPathList": [
+    {
+      "key": "buttonColor"
+    },
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "isDisabled"
+    }
+  ],
+  "dynamicPropertyPathList": [
+    {
+      "key": "isDisabled"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "isDefaultClickDisabled": true,
+  "isDisabled": "{{!InputSearchTerm.isValid}}",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "lzmkffk7es",
+  "leftColumn": 47,
+  "minWidth": 120,
+  "mobileBottomRow": 7,
+  "mobileLeftColumn": 28,
+  "mobileRightColumn": 44,
+  "mobileTopRow": 3,
+  "needsErrorInfo": false,
+  "onClick": "{{url_conflicts.run()}}",
+  "parentColumnSpace": 30.25,
+  "parentId": "y3skh36bok",
+  "parentRowSpace": 10,
+  "placement": "CENTER",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": false,
+  "responsiveBehavior": "hug",
+  "rightColumn": 61,
+  "text": "Search",
+  "topRow": 2,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "tfgdyh1un9",
+  "widgetName": "Button1"
+}

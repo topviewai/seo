@@ -1,0 +1,4 @@
+{
+	keyword: {{InputNewKeyword.text}},
+	landing_page_url: {{InputLandingPage.text}}
+}

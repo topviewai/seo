@@ -1,0 +1,47 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "alignWidget": "LEFT",
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 7,
+  "defaultCheckedState": false,
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "isDisabled": false,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "bh0t4lfid2",
+  "label": "Full Match",
+  "labelPosition": "Right",
+  "leftColumn": 20,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 7,
+  "mobileLeftColumn": 20,
+  "mobileRightColumn": 32,
+  "mobileTopRow": 3,
+  "needsErrorInfo": false,
+  "originalBottomRow": 7,
+  "originalTopRow": 3,
+  "parentColumnSpace": 30.25,
+  "parentId": "y3skh36bok",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 28,
+  "topRow": 3,
+  "type": "CHECKBOX_WIDGET",
+  "version": 1,
+  "widgetId": "h7sqcm72hr",
+  "widgetName": "CheckboxFullMatch"
+}

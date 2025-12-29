@@ -1,0 +1,4 @@
+{
+	keyword: {{TableKeywordLandpages.updatedRow.keyword}},
+	landing_page_url: {{TableKeywordLandpages.updatedRow.landing_page_url}}
+}
