@@ -93,6 +93,9 @@
     },
     {
       "key": "primaryColumns.EditActions1.isDiscardDisabled"
+    },
+    {
+      "key": "totalRecordsCount"
     }
   ],
   "dynamicPropertyPathList": [
@@ -337,11 +340,12 @@
   "responsiveBehavior": "fill",
   "rightColumn": 64,
   "searchKey": "",
+  "serverSidePaginationEnabled": true,
   "showInlineEditingOptionDropdown": true,
   "tableData": "{{keyword_landingpages.data.data}}",
   "textSize": "0.875rem",
   "topRow": 10,
-  "totalRecordsCount": 0,
+  "totalRecordsCount": "{{keyword_landingpages.data.total}}",
   "type": "TABLE_WIDGET_V2",
   "version": 2,
   "verticalAlignment": "CENTER",
