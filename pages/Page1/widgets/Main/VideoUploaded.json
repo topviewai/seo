@@ -1,0 +1,38 @@
+{
+  "animateLoading": true,
+  "autoPlay": false,
+  "backgroundColor": "#000",
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 72,
+  "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "boxShadow"
+    }
+  ],
+  "flexVerticalAlignment": "start",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "bre0j4hbja",
+  "leftColumn": 21,
+  "mobileBottomRow": 50,
+  "mobileLeftColumn": 21,
+  "mobileRightColumn": 45,
+  "mobileTopRow": 22,
+  "needsErrorInfo": false,
+  "parentColumnSpace": 30.25,
+  "parentId": "0eghv7t87o",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 45,
+  "topRow": 22,
+  "type": "VIDEO_WIDGET",
+  "url": "https://assets.appsmith.com/widgets/bird.mp4",
+  "version": 1,
+  "widgetId": "83bbif8vpu",
+  "widgetName": "VideoUploaded"
+}
